@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+pids
+logs
+results
+*.pid
+*.log
+
+# Optional - Uncomment if using npm
+# *.pnp
+# .pnp.js
+
+# Optional - Uncomment if using Yarn
+# .yarn
+
+# IDE files
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.vercel
